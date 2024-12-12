@@ -1,5 +1,5 @@
 <div>
-<h3> Hi there 👩🏻‍💻</h3>
+<h3> Hi there 👨🏻‍💻</h3>
 
 * I'm Handong Global University Student in South Korea. (2023 ~ )
 * I'm currently learning C, Swift!
