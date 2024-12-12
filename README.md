@@ -10,7 +10,7 @@
 <br>
 <br>
 
-### My Special Things
+### My Special Things ⚡️
 2023 <br>
 * Start Coding
 
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-### My Stacks
+### My Stacks 💻
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -37,6 +37,6 @@
 <br>
 <br>
 
-### Github state
+### Github state 🔥
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=DoHyeonhak&show_icons=true)
