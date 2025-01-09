@@ -16,7 +16,8 @@
 
 2024 <br>
 * Create Contact CRUD Program in C (My First Project: 2024.3)
-* Join Pard(IT Collaboration Club) as an iOS Developer (2024.9 ~ )
+* Pard(IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1)
+* Create Application "Moment" in Swift
 
 <br>
 <br>
