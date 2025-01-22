@@ -2,7 +2,7 @@
 <h3> Hi there 👨🏻‍💻</h3>
 
 * I'm Handong Global University Student in South Korea. (2023 ~ )
-* I'm currently learning C, Swift!
+* I'm currently learning C, Java, and Swift!
 * For more information, email me do2hak4@gmail.com
   
 </div>
