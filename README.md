@@ -11,11 +11,10 @@
 <br>
 
 ### My Special Things ⚡️
-2023 <br>
-* Start Coding
 
 2024 <br>
-* Create Contact CRUD Program in C (My First Project: 2024.3)
+* Start Coding
+* Create Contact CRUD Program in C
 * Pard(IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1)
 * Create Application "Moment" in Swift
 
