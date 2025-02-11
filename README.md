@@ -2,7 +2,7 @@
 <h3> Hi there 👨🏻‍💻</h3>
 
 * I'm Handong Global University Student in South Korea. (2023 ~ )
-* I'm currently learning C, Java, and Swift!
+* I'm currently learning C, C++, and Java!
 * For more information, email me do2hak4@gmail.com
   
 </div>
@@ -14,7 +14,7 @@
 
 2024 <br>
 * Start Coding
-* Create Contact CRUD Program in C
+* Create Contact CRUD Program in C, Java
 * Pard(IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1)
 * Create Application "Moment" in Swift
 
