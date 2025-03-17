@@ -3,7 +3,9 @@
 
 * I'm Handong Global University Student in South Korea. (2023 ~ )
 * I'm currently learning C, C++, and Java!
+* I aspire to become a developer with strong CS knowledge.
 * For more information, email me do2hak4@gmail.com
+
   
 </div>
 
@@ -16,6 +18,9 @@
 * Start Coding
 * <a href=https://github.com/Club-PARD>Pard</a> (IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1) 
 * Project "<a href=https://github.com/Club-PARD/Mugejungsim_FE>Moment</a>" in Swift
+
+2025 <br>
+* Java Programming TA (2025.3 ~)
 
 <br>
 <br>
