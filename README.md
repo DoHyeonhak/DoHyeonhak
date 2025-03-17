@@ -14,8 +14,8 @@
 
 2024 <br>
 * Start Coding
-* Pard(IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1) <a href=https://github.com/Club-PARD> Pard </a> 
-* Project "Moment" in Swift
+* <a href=https://github.com/Club-PARD>Pard</a> (IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1) 
+* Project "<a href=[https://github.com/Club-PARD](https://github.com/Club-PARD/Mugejungsim_FE)>Moments</a> " in Swift
 
 <br>
 <br>
