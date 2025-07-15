@@ -19,8 +19,6 @@
 * <a href=https://github.com/Club-PARD>Pard</a> (IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1) 
 * Project "<a href=https://github.com/Club-PARD/Mugejungsim_FE>Moment</a>" in Swift : An emotion-based travel journaling application.
   
-2025 <br>
-* Java Programming TA (2025.3 ~)
 
 <br>
 <br>
