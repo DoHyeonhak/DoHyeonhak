@@ -19,8 +19,6 @@
 * <a href=https://github.com/Club-PARD>Pard</a> (IT Collaboration Club) as an iOS Developer (2024.9 ~ 2025.1) 
 * Project "<a href=https://github.com/Club-PARD/Mugejungsim_FE>Moment</a>" in Swift : An emotion-based travel journaling application.
   
-
-<br>
 2025 <br>
 * MCNL(Mobile Computing and Networking Lab in Handong Univ) RA (2025.5 ~ )
 <br>
