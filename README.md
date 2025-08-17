@@ -21,7 +21,7 @@
   
 
 <br>
-2024 <br>
+2025 <br>
 * MCNL(Mobile Computing and Networking Lab in Handong Univ) RA (2025.5 ~ )
 <br>
 
