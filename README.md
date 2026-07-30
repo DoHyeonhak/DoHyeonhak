@@ -1,55 +1,60 @@
-<h1 align="center">Hi 👋, I'm Hyeonhak Do</h1>
+*Hi! I'm Hyeonhak, an AI/CS student who explores networking and systems research through hands-on projects.*
 
-<p align="center">
-  <a href="mailto:22300248@handong.ac.kr">
-    <img src="https://img.shields.io/badge/Email-22300248%40handong.ac.kr-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:do2hak4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-do2hak4%40google.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
----
+<br/>
+<br/>
+<br/>
 
-### About Me
+**Skills**
 
-- B.S. in **AI Computer Science and Engineering**, Handong Global University (Mar. 2023 – Present)
-- GPA **4.19 / 4.5** (Major GPA **4.26 / 4.5**)
-- Undergraduate Research Assistant @ **Mobile Computing and Networking Lab (MCNL)**, Handong Global University
-- Currently exploring **IoT mesh networking**
+- C/C++ (primary), Java, Python
 
----
 
-### Research & Experience
+<br/>
+<br/>
+<br/>
 
-**Undergraduate Research Assistant** — MCNL, Handong Global University *(May 2025 – Present)*
-- Industry-Academic Project, Merlot Lab *(2025.05 – Present)* — TTA certification testing (completed), IoT mesh network research (ongoing)
-- Industry-Academic Project, Polaris 3D *(2025.09 – 2025.12)* — LoRa-based TDMA MAC protocol
+**Work & Research Experience**
 
-**Undergraduate Research Intern (U-SURF)** — SANSL, UNIST *(Jul. 2026)*
+- ***MCNL (Handong Global University)**: Undergraduate Research Assistant (2025.05 - Present)*
+  - *Industry-Academic Project, Merlot Lab (2025.05 - Present): TTA certification testing (completed), IoT mesh network research (ongoing)*
+  - *Industry-Academic Project, Polaris 3D (2025.09 - 2025.12): LoRa-based TDMA MAC protocol*
+- ***SANSL (UNIST)**: Undergraduate Research Intern, U-SURF (2026.07)*
+- ***Teaching Assistant**: Java Programming (2025.03 - 2025.06)*
+- ***PARD**: IT Collaboration Club, iOS Part, 4th Cohort (2024.09 - 2025.01)*
 
-**Teaching Assistant, Java Programming** — Handong Global University *(Mar. 2025 – Jun. 2025)*
 
-**PARD** — IT Collaboration Club, iOS Part, 4th Cohort *(Sep. 2024 – Jan. 2025)*
+<br/>
+<br/>
+<br/>
 
----
+**Featured Project**
 
-### Featured Project
+- ***Flexible Video Wall Based on Mobile Device** *(Capstone Project, 2025.09 - 2026.05)*: **Best Award**, 39th Handong Capstone Festival · **Team Lead***
 
-**🏆 Flexible Video Wall Based on Mobile Device** — Capstone Project *(Sep. 2025 – May 2026)*
-*Best Award, 39th Handong Capstone Festival · Team Lead*
 
----
+<br/>
+<br/>
+<br/>
 
-### Publications
+**Publications**
 
-- S. Kim, H. Do, K. Lee, D. Cho, I. Chu, Y. Go, *모바일 디바이스 기반 유연한 비디오 월 시스템*, 한국컴퓨터종합학술대회 (KCC 2026), Jun. 2026.
+- *S. Kim, **H. Do**, K. Lee, D. Cho, I. Chu, Y. Go, *모바일 디바이스 기반 유연한 비디오 월 시스템*, 한국컴퓨터종합학술대회 (KCC 2026), Jun. 2026.*
 
----
 
-### Skills
+<br/>
+<br/>
+<br/>
 
-**Languages:** C/C++ (primary), Java, Python
+**Education**
 
----
+*Handong Global University - B.S. in AI Computer Science and Engineering (2023.03 - Present)*
 
+
+<br/>
+<br/>
+<br/>
+
+**Contact**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:22300248@handong.ac.kr)
