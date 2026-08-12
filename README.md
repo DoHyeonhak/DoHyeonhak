@@ -17,8 +17,8 @@
 **Work & Research Experience**
 
 - ***MCNL (Handong Global University)**: Undergraduate Research Assistant (2025.05 - Present)*
-  - *Industry-Academic Project, Merlot Lab (2025.05 - Present): TTA certification testing (completed), IoT mesh network research (ongoing)*
-  - *Industry-Academic Project, Polaris 3D (2025.09 - 2025.12): LoRa-based TDMA MAC protocol*
+  - *Industry-Academic Project 1 (2025.05 - Present): TTA certification testing (completed), IoT mesh network research (ongoing)*
+  - *Industry-Academic Project 2 (2025.09 - 2025.12): LoRa-based TDMA MAC protocol*
 - ***SANSL (UNIST)**: Undergraduate Research Intern, U-SURF (2026.07)*
 - ***Teaching Assistant**: Java Programming (2025.03 - 2025.06)*
 - ***PARD**: IT Collaboration Club, iOS Part, 4th Cohort (2024.09 - 2025.01)*
